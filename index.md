@@ -1,10 +1,10 @@
 # Hello World!
 
-This is my home page! My name is Ivory Irineo, I am a student at [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Electrical_engineer.
+This is my home page! My name is Ivory Irineo, I am a student at [Cal State Fullerton] (http://www.fullerton.edu/) and my major is Electrical Engineer.
 
 ## Computer Science Project
 
-My GitHub page is http://github.com/ivoryirineo004/ivoryirineo004.github.io.
+My GitHub page is http://github.com/ivoryirineo004
 
 ### CPSC 120
 
